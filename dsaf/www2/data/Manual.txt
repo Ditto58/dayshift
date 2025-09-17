@@ -1,0 +1,41 @@
+<main entries> Introductory Greeting; Technician (pt1)!
+
+# Introductory Greeting (for legal reasons!)
+
+<name> Introductory Greeting
+
+<text>
+
+Welcome to the Freddy Fazbender's Company Handbook! 
+I, (Scott Cawthon) will act as your guide down 
+this new and \fiexciting\fi career path.
+
+Firstly, I have to say this, for legal reasons:
+
+"Welcome to Freddy Fazbender's Pepperonerie!"
+"If you die, we're not liable, since you signed
+an incredibly cruel contract that forces you
+to die in Springlock suits and endlessly give
+out cake to screaming toddlers."
+
+"If you die, or worse: \fiGET FIRED\fi, we don't care. 
+Just don't sue us or whatever. Thanks, employee."
+
+TEST
+
+TEST
+
+<end entry>
+
+# So, you're a technician now!
+
+<name> Technician (pt1)!
+
+<text>
+
+Welcome to your new job as a technician here at
+Freddy Fazbender's Pepperonerie!
+
+Your job here is to keep the robots clean and
+
+<end entry>

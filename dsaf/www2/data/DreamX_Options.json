@@ -1,0 +1,51 @@
+{
+    "VIDEO": {
+        "816x624": {
+            "w": "816",
+            "h": "624"
+        },
+        "768x576": {
+            "w": "768",
+            "h": "576"
+        },
+        "256x196": {
+            "w": "256",
+            "h": "196"
+        },
+        "942x672": {
+            "w": "942",
+            "h": "672"
+       
+    },
+    "VARIABLES": {
+       
+            }
+        },
+    
+    "HELP_TEXT": {
+        "alwaysDash": "If on, always dash even without holding dash button.",
+        "commandRemember": "Remember commands.",
+        "bgmVolume": "This changes the volume of bgm.",
+        "bgsVolume": "This changes the volume of bgs.",
+        "meVolume": "This changes the volume of me sound effects.",
+        "seVolume": "This changes the volume of sound effects.",
+        "resolution": "Requires exit and restart.",
+        "fullscreen": "Toggle Fullscreen.",
+        "switch_1": "If on, does something really neat.",
+        "switch_5": "If on, does something incredible.",
+        "variable_1": "Great variable",
+        "variable_8": "Variable 8 is my favorite.",
+        "variable_10": {
+            "1": "Help text for a value of 1",
+            "2": "Help text for a value of 2",
+            "3": "Help text for a value of 3"
+        }
+    },
+    "LOCKS": {
+        "commandRemember": {
+            "condition": "$gameSwitches.value(1)",
+            "reset": "true",
+            "resetValue": "false"
+        }   
+    }
+}
